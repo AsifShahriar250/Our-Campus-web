@@ -347,37 +347,56 @@ h3{
   color: #fff;
 
  } 
-  .sub-header h1{
+.sub-header h1{
     text-align: center;
     margin-top: 100px;
 
   }
-  .about-us{
+.about-us{
     width: 80%;
     margin: auto;
     padding-top: 80px;
     padding-bottom: 50px;
 
   }
-  .about-col{
+.about-col{
     flex-basis: 48%;
     padding: 30px 2px;
 
   }
-  .about-col img{
+.about-col img{
     width: 100%;
   }
-  .about-col h1{
+.about-col h1{
     padding-top: o;
   }
-  .about-col p{
+.about-col p{
     padding: 15px 0 25px;
   }
-  .red-btn{
+.red-btn{
     border: 1px solid #f44336;
     background: transparent;
     color: #f44336;
   }
-  .red-btn:hover{
+.red-btn:hover{
     color: #fff;
   }
+
+  /*bolg content*/
+
+.blog-content{
+    width: 80%;
+    margin: auto;
+    padding: 60px 0;
+  }
+.blog-left{
+    flex-basis: 65%;
+  }
+.blog-left img{
+    width: 100%;
+   }
+.blog-left h2{
+  color: #222;
+  font-weight: 600;
+  margin: 30px 0;
+}
