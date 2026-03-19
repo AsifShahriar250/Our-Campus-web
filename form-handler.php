@@ -6,7 +6,7 @@ $massage = $_POST['maggage'];
 
 
 $email_form='info@gmail.com';
-$email_subject='New FOrm Submission';
+$email_subject='New Form Submission';
 $email_body="User Name:$name.\n".
                "User Email:$visitor_email.\n".
                 "sublect:$sublect.\n".
